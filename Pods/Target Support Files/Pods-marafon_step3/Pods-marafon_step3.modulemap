@@ -1,0 +1,6 @@
+module Pods_marafon_step3 {
+  umbrella header "Pods-marafon_step3-umbrella.h"
+
+  export *
+  module * { export * }
+}
